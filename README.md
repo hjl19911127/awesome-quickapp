@@ -24,7 +24,7 @@
 
 ## 插件
 
-更新中...
+- [vscode开发插件Hap Extension](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)
 
 ## 讨论
 
