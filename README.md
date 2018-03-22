@@ -8,7 +8,7 @@
 - [讨论](#讨论)
 - [教程](#教程)
 - [视频教程](#视频教程)
-- [文章](#文章)
+- [分享](#分享)
 - [代码](#代码)
 - [轮子](#轮子)
 
@@ -35,7 +35,7 @@
 ## 教程
 
 - [快应用QuickApp--入门指北](https://zhuanlan.zhihu.com/p/34774751)
-- [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension)
+- [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e)
 - [快应用QuickApp--HelloWorld体验](https://www.cnblogs.com/simleSmith/p/8618256.html)
 - [对标小程序 ? "快应用"开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
 
@@ -43,7 +43,7 @@
 
 更新中...
 
-## 文章
+## 分享
 
 - [饿了么快应用初体验](https://juejin.im/post/5ab119ef51882555712c3372)
 - [快应用初体验 by 壮壮_WFX](https://juejin.im/post/5ab378235188255574599cc4)
