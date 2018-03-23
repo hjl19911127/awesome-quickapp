@@ -18,7 +18,7 @@
 
 ## 工具
 
-更新中...
+* [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
 
 ## 插件
 
