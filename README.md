@@ -46,4 +46,6 @@
 - [饿了么快应用初体验 by YoungZ](https://juejin.im/post/5ab119ef51882555712c3372)
 - [快应用初体验 by 壮壮_WFX](https://juejin.im/post/5ab378235188255574599cc4)
 - [快应用版本的Gank io](https://github.com/ColorfulCat/quickapp_gank)
+- [wanandroid-快应用(quickapp)](https://github.com/CB-ysx/wanandroid-quickapp)
+- [基于weui开发的快应用组件](https://github.com/xiaomak/quickapp-weui)
 
