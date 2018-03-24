@@ -25,6 +25,7 @@
 ## 插件
 
 - [vscode开发插件Hap Extension](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)
+- [一个基于vscode应用于‘快应用’语法高亮](https://github.com/hatedMe/QuickApp-For-Highlighter)
 
 ## UI
 
