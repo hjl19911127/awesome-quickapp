@@ -5,9 +5,10 @@
 - [官方](#官方)
 - [工具](#工具)
 - [插件](#插件)
+- [框架](#框架)
 - [讨论](#讨论)
 - [教程](#教程)
-- [视频教程](#视频教程)
+- [视频](#视频)
 - [分享](#分享)
 
 ## 官方
@@ -18,11 +19,16 @@
 
 ## 工具
 
-* [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
+- [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
+- [快应用开发工具 - HBuilderX](http://quickapp.dcloud.io)
 
 ## 插件
 
 - [vscode开发插件Hap Extension](https://marketplace.visualstudio.com/items?itemName=yupeng528.hap)
+
+## UI
+
+- [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
 
 ## 讨论
 
@@ -36,8 +42,9 @@
 - [快应用快速入门教程 by 大大花猫](https://juejin.im/post/5ab27d8e518825557e78485e)
 - [快应用QuickApp--HelloWorld体验](https://www.cnblogs.com/simleSmith/p/8618256.html)
 - [对标小程序 ? "快应用"开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
+- [快应用简单教程](https://github.com/williamfzc/QuickAppLearner)
 
-## 视频教程
+## 视频
 
 更新中...
 
@@ -48,4 +55,5 @@
 - [快应用版本的Gank io](https://github.com/ColorfulCat/quickapp_gank)
 - [wanandroid-快应用(quickapp)](https://github.com/CB-ysx/wanandroid-quickapp)
 - [基于weui开发的快应用组件](https://github.com/xiaomak/quickapp-weui)
+- [基于快应用开发的内涵车站APP](https://github.com/Licoy/quickapp-neihanchezhan)
 
