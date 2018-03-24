@@ -19,8 +19,8 @@
 
 ## 工具
 
-- [Quix UI for Quick App](https://github.com/wuxinzhe/Quix)
 - [快应用开发工具 - HBuilderX](http://quickapp.dcloud.io)
+- [快应用转换工具 - 小程序转快应用](http://quickapp.dcloud.io/#wxconvert)
 
 ## 插件
 
